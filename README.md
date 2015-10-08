@@ -1,0 +1,1 @@
+# script_opening_from_script
